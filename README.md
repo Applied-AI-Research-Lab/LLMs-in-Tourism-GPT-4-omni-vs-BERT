@@ -3,7 +3,7 @@
 ## Article
 * **Journal**: [Information | An Open Access Journal from MDPI](https://www.mdpi.com/journal/information)
 * **Title**: [Leveraging Large Language Models in Tourism: A Comparative Study of the Latest GPT Omni Models and BERT NLP for Customer Review Classification and Sentiment Analysis ](https://www.mdpi.com/2078-2489/15/12/792)
-* **DOI**: [https://www.mdpi.com/2078-2489/15/12/792](https://www.mdpi.com/2078-2489/15/12/792)
+* **DOI**: [https://doi.org/10.3390/info15120792](https://doi.org/10.3390/info15120792)
 
 ## Authors
 * **Dr. Konstantinos I. Roumeliotis**
